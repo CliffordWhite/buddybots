@@ -1,0 +1,9 @@
+entityDef TeamBurnside{
+	"inherit"		"team"
+	"name"			"TeamBurnside"
+	"size"			"3"
+	
+	"leader"		"BurnsideBot0"
+	"veteran"		"BurnsideBot1"
+	"recruit"		"BurnsideBot2"
+	}

@@ -1,0 +1,9 @@
+entityDef LightSide{
+	"inherit"		"team"
+	"name"			"LightSide"
+	"size"			"3"
+	
+	"leader"		"AssaultBot"
+	"veteran"		"DefenderBot"
+	"recruit"		"WolverineBot"
+	}

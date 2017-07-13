@@ -1,0 +1,9 @@
+entityDef test3{
+"inherit"		"bot"	
+
+"author"		"test3"
+"bot_type"		"Script"
+"scriptclass"	"test3"
+
+"ui_name"		"test3"
+}

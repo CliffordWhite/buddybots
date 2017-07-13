@@ -1,0 +1,10 @@
+entityDef TeamWhiteSide{
+	"inherit"		"team"
+	"name"			"TeamWhiteSide"
+	"size"			"4"
+	
+	"leader"		"AssaultBot"
+	"veteran"		"AssaultBot"
+	"recruit"		"AssaultBot"
+	"novice"		"AssaultBot"
+	}
